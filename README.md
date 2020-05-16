@@ -1,4 +1,19 @@
-# Music
-用于练习vue的音乐webapp
+# music
 
-尝试完全使用组件工具开发
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
